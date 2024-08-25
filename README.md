@@ -17,3 +17,4 @@ I'm Wicaksono Leksono (@wicaksonoleksono)
 - Email: [wcksnlxn@gmail.com](mailto:wcksnlxn@gmail.com)
 
 
+my portfolio website https://intip.in/portofoliowicak/
