@@ -18,3 +18,7 @@ I'm Wicaksono Leksono (@wicaksonoleksono)
 
 
 my portfolio website https://intip.in/portofoliowicak/
+</br>
+
+<!--![Wicaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoleksono&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonoleksono&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
