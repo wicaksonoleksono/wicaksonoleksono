@@ -2,11 +2,10 @@
 
 I'm Wicaksono Leksono (@wicaksonoleksono)
 </br>
-👀 
 </br>
 📫 **How to Reach Me:**
 - Email: [wcksnlxn@gmail.com](mailto:wcksnlxn@gmail.com)
-my portfolio [website](https://intip.in/portofoliowicak/)
+- my portfolio [website](https://intip.in/portofoliowicak/)
 </br>
 Curiosity didn't kill the cat, it taught the cat valuable lesson 
 </br>
