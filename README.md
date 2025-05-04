@@ -7,7 +7,8 @@ I'm Wicaksono Leksono (@wicaksonoleksono)
 - Email: [wcksnlxn@gmail.com](mailto:wcksnlxn@gmail.com)
 - my portfolio [website](https://wicaksonolxn.vercel.app/)
 </br>
-Curiosity didn't kill the cat, it taught the cat valuable lesson 
+Curiosity didn't kill the cat, it taught the cat valuable lesson
+Life Long Learner !!!
 </br>
 
 <!--![Wicaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoleksono&show_icons=true&bg_color=00000000)
