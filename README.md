@@ -8,6 +8,7 @@ I'm Wicaksono Leksono (@wicaksonoleksono)
 - my portfolio [website](https://wicaksonolxn.vercel.app/)
 </br>
 Curiosity didn't kill the cat, it taught the cat valuable lesson
+</br>
 Life Long Learner !!!
 </br>
 
