@@ -13,7 +13,7 @@ Life Long Learner !!!
 </br>
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=wicaksonoleksono)
+![yaudah lah yah](https://komarev.com/ghpvc/?username=wicaksonoleksono)
 
 
 <!--![Wicaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoleksono&show_icons=true&bg_color=00000000)
