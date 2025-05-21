@@ -11,6 +11,6 @@ Curiosity didn't kill the cat, it taught the cat valuable lesson
 </br>
 Life Long Learner !!!
 </br>
-![](https://komarev.com/ghpvc/?username=wicaksonoleksono)
+![Profile view counter](https://komarev.com/ghpvc/?username=wicaksonoleksono&style=flat-square&color=green)
 <!--![Wicaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoleksono&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonoleksono&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
