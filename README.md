@@ -11,6 +11,8 @@ Curiosity didn't kill the cat, it taught the cat valuable lesson
 </br>
 Life Long Learner !!!
 </br>
+</br>
+</br>
 
 
 ![yaudah lah yah](https://komarev.com/ghpvc/?username=wicaksonoleksono)
