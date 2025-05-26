@@ -1,22 +1,4 @@
-## Hi there 👋
 
-I'm Wicaksono Leksono (@wicaksonoleksono)
-</br>
-</br>
 📫 **How to Reach Me:**
 - Email: [wcksnlxn@gmail.com](mailto:wcksnlxn@gmail.com)
 - [my portfolio](https://wicaksonolxn.vercel.app/)
-</br>
-Curiosity didn't kill the cat, it taught the cat valuable lesson
-</br>
-Life Long Learner !!!
-</br>
-</br>
-</br>
-
-
-![yaudah lah yah](https://komarev.com/ghpvc/?username=wicaksonoleksono)
-
-
-<!--![Wicaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoleksono&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonoleksono&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
